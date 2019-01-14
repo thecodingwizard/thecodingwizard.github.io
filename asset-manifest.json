@@ -1,6 +1,11 @@
 {
-  "main.css": "static/css/main.258297ba.css",
-  "main.css.map": "static/css/main.258297ba.css.map",
-  "main.js": "static/js/main.5a9e1da3.js",
-  "main.js.map": "static/js/main.5a9e1da3.js.map"
+  "main.css": "static/css/main.e9a5d98e.css",
+  "main.css.map": "static/css/main.e9a5d98e.css.map",
+  "main.js": "static/js/main.66507b00.js",
+  "main.js.map": "static/js/main.66507b00.js.map",
+  "static\\media\\angular.svg": "static/media/angular.5c69e565.svg",
+  "static\\media\\bootstrap.svg": "static/media/bootstrap.5b5ecc17.svg",
+  "static\\media\\html5.svg": "static/media/html5.f618641c.svg",
+  "static\\media\\pwa.svg": "static/media/pwa.2165636a.svg",
+  "static\\media\\react.svg": "static/media/react.1a2e6932.svg"
 }
